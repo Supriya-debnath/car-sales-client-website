@@ -1,0 +1,13 @@
+.tour{
+    color: lightcoral;
+}
+.img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+    margin: 30px;
+}
+.img:hover{
+    background-color: rgba(68, 63, 63, 0.103);
+}

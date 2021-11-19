@@ -1,0 +1,24 @@
+.admin-form {
+    height: 565px;
+    padding: 40px;
+}
+.admin-form h2 {
+    margin-bottom: 20px;
+    color: #da0037;
+}
+.admin-form form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.admin-form form input {
+    text-align: center;
+    width: 50%;
+    margin: 8px;
+    padding: 8px;
+    border-radius: 20px;
+    border: 2px solid #da0037;
+}
+.submit-form{
+    background-color: #bb2a4e;
+}

@@ -1,0 +1,10 @@
+.product-container{
+    display: grid;
+}
+.container__style{
+    min-height: 83.5vh;
+}
+.service-title{
+    margin: 30px;
+    color: slategrey;
+}

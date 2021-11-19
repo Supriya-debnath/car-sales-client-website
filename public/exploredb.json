@@ -1,0 +1,87 @@
+
+[
+    {
+        "name":"LAMBONGHINI",
+        "description":"Lamborghini is an Italian car manufacturer (although today it is part of the Audi Group) specialized in the production of luxury cars.  ",
+        "price": "95,900",
+        "spreed": "40,000km",
+        "img":"https://cdn.carbuzz.com/gallery-images/840x560/346000/700/346785.jpg"
+    },
+    {
+        "name":"FREEARI RED CAR",
+        "description":"The most well-known Ferrari red colour is Rosso Corsa, which translates as 'Racing Red'. This iconic shade embodied. ",
+        "price": "87,050",
+        "spreed": "40117km",
+        "img":"https://luxurycolumnist.com/wp-content/uploads/2021/04/most-expensive-car-brands-in-the-world.jpg"
+    },
+    {
+        "name":"BMW E46 M3 DISKI SERIE",
+        "description":"The E46 M3 is powered by the S54 straight-six engine and has a 0-100 km/h (62 mph) acceleration time of 5.1 seconds for the coupé. ",
+        "price": "2,38907",
+        "spreed": "30056km",
+        "img":"https://ichoose.ph/blogs/wp-content/uploads/2018/09/1carmudi.jpg"
+    },
+    {
+        "name":"VOLKSWAGEN SCIROCCO",
+        "description":"The Volkswagen Scirocco is a three-door, front-engine, front-wheel-drive, sport compact hatchback manufactured. ",
+        "price": "90,203",
+        "spreed": "20894km",
+        "img":"https://i.pinimg.com/736x/1e/ae/7c/1eae7cb434f1f88436007e50a76f5abe.jpg"
+    },
+    {
+        "name":"PORSCHE CAYEN LAST",
+        "description":"The Cayenne models. Drive a Sports Cars for the whole family. Including luggage. An overview of all model variants and equipment details. ",
+        "price": "1,03459",
+        "spreed": "39978km",
+        "img":"https://cdn.motor1.com/images/mgl/88Xjq/s1/lamborghini-sc20.jpg"
+    },
+    {
+        "name":"LEXUS GS F",
+        "description":"With the 2020 GS F, Lexus takes its refined GS sedan and elevates it to sports-sedan status by way of a high-revving V-8, big brakes. ",
+        "price": "85,010",
+        "spreed": "40000km",
+        "img":"https://cdn.motor1.com/images/mgl/8e8Mo/s1/most-expensive-new-cars-ever.webp"
+    },
+    {
+        "name": "Mercedes-Benz",
+        "description": "In concrete terms a Mercedes is characterised by three very pronounced traits: optimum ride comfort, high driving safety .",
+        "price": "1,20356",
+        "spreed": "2783km",
+        "img": "https://cdn.jdpower.com/JDPA_2021%20Mercedes-Benz%20S-Class%20Black%20At%20Speed.jpg"
+    },
+    {
+        "name": "TESLA",
+        "description": "Tesla was founded in 2003 by a group of engineers who wanted to prove that people didn't need to compromise to drive electric",
+        "price": "99345",
+        "spreed": "12889km",
+        "img": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2018_12/2371046/180320-flying-car-aeromobil50-se-143p.jpg"
+    },
+    {
+        "name": "BUGATTI",
+        "description": "The Super Sport version of the Veyron is one of the fastest street-legal production cars in the world, with a top speed of 431.072 km/h.",
+        "price": "2,78340",
+        "spreed": "33045km",
+        "img": "https://cdn.jdpower.com/JDPA_2021%20Mercedes-Benz%20S-Class%20Black%20At%20Speed.jpg"
+    },
+    {
+        "name": "FERRARI",
+        "description": "Ferrari road cars are generally seen as a symbol of speed, luxury and wealth. Ferrari cars are built at the 165,000 square-meter .",
+        "price": "1,59364",
+        "spreed": "22990km",
+        "img": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Aston-Martin/DBX/6695/1610702690302/front-left-side-47.jpg?impolicy=resize&imwidth=480"
+    },
+    {
+        "name": "LAND ROVER",
+        "description": "Land Rover is a British brand of predominantly four-wheel drive, off-road capable vehicles, owned by multinational car manufacturer Jaguar .",
+        "price": "88234",
+        "spreed": "23894km",
+        "img": "https://cdn.jdpower.com/JDPA_2021%20Mercedes-Benz%20S-Class%20Black%20At%20Speed.jpg"
+    },
+    {
+        "name": "JAGUAR",
+        "description": "Cars were renamed Jaguar Cars Limited to distinguish themselves as a memorable brand. Jaguar became known for stunning sports cars.",
+        "price": "90123",
+        "spreed": "6586km",
+        "img": "https://i.ytimg.com/vi/dip_8dmrcaU/maxresdefault.jpg"
+    }
+]
