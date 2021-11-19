@@ -12,7 +12,7 @@ const Review = () => {
     const onSubmit = (data) => {
         data.rating = rating;
         console.log(data);
-        const uri = "http://localhost:5000/reviews";
+        const uri = "https://whispering-cliffs-17559.herokuapp.com/reviews";
         fetch(uri, {
             method: "POST",
             headers: {

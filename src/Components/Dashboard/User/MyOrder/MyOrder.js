@@ -7,7 +7,7 @@ const MyOrder = () => {
     const {user} = useAuth();
 
   useEffect( () => {
-    fetch(`http://localhost:5000/myOrders?email=${user.email}`)
+    fetch(`https://whispering-cliffs-17559.herokuapp.com/myOrders?email=${user.email}`)
     .then(res => res.json())
     .then((data) => {
       console.log(data);
@@ -18,7 +18,7 @@ const MyOrder = () => {
   const handleDelete = id => {
     const deleteConfirmation = window.confirm('Are you sure to delete this orders');
     if(deleteConfirmation){
-      const url = `http://localhost:5000/orders/${id}`;
+      const url = `https://whispering-cliffs-17559.herokuapp.com/orders/${id}`;
       fetch(url, {
         method: 'DELETE'
       })

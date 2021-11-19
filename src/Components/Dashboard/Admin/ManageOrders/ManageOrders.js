@@ -9,7 +9,7 @@ const ManageOrders = () => {
 
 
   useEffect(() => {
-    fetch(`http://localhost:5000/orders`)
+    fetch(`https://whispering-cliffs-17559.herokuapp.com/orders`)
     .then(res => res.json())
     .then((data) => {
       console.log(data);
@@ -20,7 +20,7 @@ const ManageOrders = () => {
   const handleDelete = id => {
     const deleteConfirmation = window.confirm('Are you sure to delete this order');
     if(deleteConfirmation){
-      const url = `http://localhost:5000/orders/${id}`;
+      const url = `https://whispering-cliffs-17559.herokuapp.com/orders/${id}`;
       fetch(url, {
         method: 'DELETE'
       })

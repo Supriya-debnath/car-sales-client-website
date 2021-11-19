@@ -9,7 +9,7 @@ const PlaceOrder = () => {
 
     const [order, setOrder] = useState({});
     useEffect(() => {
-        const uri = `http://localhost:5000/products/${id}`;
+        const uri = `https://whispering-cliffs-17559.herokuapp.com/products/${id}`;
         fetch(uri)
             .then((res) => res.json())
             .then((data) => setOrder(data));

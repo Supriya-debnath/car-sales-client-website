@@ -7,7 +7,7 @@ const AddProducts = () => {
     const { register, handleSubmit } = useForm();
     const onSubmit = data => {
       console.log(data)
-      axios.post('http://localhost:5000/products', data)
+      axios.post('https://whispering-cliffs-17559.herokuapp.com/products', data)
       .then(res => {
           if(res.data.insertedId){
               alert('One new package successfully added');

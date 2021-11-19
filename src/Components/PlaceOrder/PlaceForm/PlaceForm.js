@@ -12,7 +12,7 @@ const PlaceForm = (props) => {
     const onSubmit = (data) => {
         console.log(data);
         data.status = "pending";
-        const uri = "http://localhost:5000/orders";
+        const uri = "https://whispering-cliffs-17559.herokuapp.com/orders";
         fetch(uri, {
             method: "POST",
             headers: {
